@@ -12,6 +12,11 @@
 		0480CF891F6AAE290005CDF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF871F6AAE290005CDF1 /* Main.storyboard */; };
 		0480CF8B1F6AAE290005CDF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF8A1F6AAE290005CDF1 /* Assets.xcassets */; };
 		0480CF8E1F6AAE290005CDF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF8C1F6AAE290005CDF1 /* LaunchScreen.storyboard */; };
+		0480CF9A1F6AAF890005CDF1 /* frame_0_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF961F6AAE3D0005CDF1 /* frame_0_delay-0.25s.gif */; };
+		0480CF9B1F6AAF8D0005CDF1 /* frame_1_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF971F6AAE3D0005CDF1 /* frame_1_delay-0.25s.gif */; };
+		0480CF9C1F6AAF900005CDF1 /* frame_2_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF981F6AAE3D0005CDF1 /* frame_2_delay-0.25s.gif */; };
+		0480CF9D1F6AAF930005CDF1 /* frame_3_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF951F6AAE3C0005CDF1 /* frame_3_delay-0.25s.gif */; };
+		0480CF9E1F6AAF960005CDF1 /* frame_4_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF991F6AAE3D0005CDF1 /* frame_4_delay-0.25s.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		0480CF8A1F6AAE290005CDF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0480CF8D1F6AAE290005CDF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0480CF8F1F6AAE290005CDF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0480CF951F6AAE3C0005CDF1 /* frame_3_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_3_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF961F6AAE3D0005CDF1 /* frame_0_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_0_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF971F6AAE3D0005CDF1 /* frame_1_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_1_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF981F6AAE3D0005CDF1 /* frame_2_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_2_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF991F6AAE3D0005CDF1 /* frame_4_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_4_delay-0.25s.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +67,11 @@
 				0480CF831F6AAE290005CDF1 /* AppDelegate.swift */,
 				0480CF851F6AAE290005CDF1 /* ViewController.swift */,
 				0480CF871F6AAE290005CDF1 /* Main.storyboard */,
+				0480CF961F6AAE3D0005CDF1 /* frame_0_delay-0.25s.gif */,
+				0480CF971F6AAE3D0005CDF1 /* frame_1_delay-0.25s.gif */,
+				0480CF981F6AAE3D0005CDF1 /* frame_2_delay-0.25s.gif */,
+				0480CF951F6AAE3C0005CDF1 /* frame_3_delay-0.25s.gif */,
+				0480CF991F6AAE3D0005CDF1 /* frame_4_delay-0.25s.gif */,
 				0480CF8A1F6AAE290005CDF1 /* Assets.xcassets */,
 				0480CF8C1F6AAE290005CDF1 /* LaunchScreen.storyboard */,
 				0480CF8F1F6AAE290005CDF1 /* Info.plist */,
@@ -123,9 +138,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0480CF9C1F6AAF900005CDF1 /* frame_2_delay-0.25s.gif in Resources */,
+				0480CF9A1F6AAF890005CDF1 /* frame_0_delay-0.25s.gif in Resources */,
 				0480CF8E1F6AAE290005CDF1 /* LaunchScreen.storyboard in Resources */,
 				0480CF8B1F6AAE290005CDF1 /* Assets.xcassets in Resources */,
+				0480CF9E1F6AAF960005CDF1 /* frame_4_delay-0.25s.gif in Resources */,
 				0480CF891F6AAE290005CDF1 /* Main.storyboard in Resources */,
+				0480CF9B1F6AAF8D0005CDF1 /* frame_1_delay-0.25s.gif in Resources */,
+				0480CF9D1F6AAF930005CDF1 /* frame_3_delay-0.25s.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
